@@ -1,5 +1,9 @@
 # Kisan Dost 🌾 — Farmer's Friend
 
+
+## Live Demo
+🔗 https://kisan-project.fastapicloud.dev
+
 An AI agronomy agent that helps Pakistani farmers decide what to grow, how to protect it, and when to sell — built with the OpenAI Agents SDK (running on Groq's free API).
 
 ## What It Does
@@ -113,3 +117,8 @@ Currently uses realistic hardcoded lookup tables for crop yields, fertilizer rat
 ## Built For
 
 Kisan Dost Agentic AI Hackathon — Terminal Agent Challenge
+
+
+
+## Live Demo
+🔗 https://kisan-project.fastapicloud.dev
